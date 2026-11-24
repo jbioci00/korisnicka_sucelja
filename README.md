@@ -1,5 +1,14 @@
-# Semester Project <!-- omit in toc -->
+# DEPLOYED:
+[**WEBSITE**](https://korisnicka-sucelja-seven.vercel.app/)
 
+
+
+
+
+
+
+
+# Semester Project <!-- omit in toc -->
 - [Project Structure](#project-structure)
 - [My Project Links](#my-project-links)
   - [Semester Project](#semester-project)
@@ -18,7 +27,7 @@
 
 ### Semester Project
 
-- Link to your production version: [**Production Version**](https://korisnicka-sucelja-ruby.vercel.app) <!-- Replace with actual URL -->
+- Link to your production version: [**Production Version**](https://korisnicka-sucelja-seven.vercel.app/) <!-- Replace with actual URL -->
 - Link to your final report: [**Final Report**](https://marred-yttrium-ec6.notion.site/FilmNest-26159d52998b80c995bae4433da2d959) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
@@ -26,10 +35,10 @@
 
 - Link to Assignment 1: [**Assignment 1**](assignments/assignment-1/figma.mp4) <!-- Replace with actual URL -->
 - Link to Assignment 2: [**Assignment 2**](assignments/assignment-2/user_personas_and_information_architecture.docx) <!-- Replace with actual URL -->
-- Link to Assignment 3: [**Assignment 3**](https://korisnicka-sucelja-ruby.vercel.app/) <!-- Replace with actual URL -->
+- Link to Assignment 3: [**Assignment 3**](https://korisnicka-sucelja-seven.vercel.app//) <!-- Replace with actual URL -->
 - Link to Assignment 4: [**Assignment 4**](assignments/assignment-4/assignment-4.md) <!-- Replace with actual URL -->
-- Link to Assignment 5: [**Assignment 5**](https://korisnicka-sucelja-ruby.vercel.app/) <!-- Replace with actual URL -->
-- Link to Assignment 6: [**Assignment 6**](https://korisnicka-sucelja-ruby.vercel.app/) <!-- Replace with actual URL -->
+- Link to Assignment 5: [**Assignment 5**](https://korisnicka-sucelja-seven.vercel.app//) <!-- Replace with actual URL -->
+- Link to Assignment 6: [**Assignment 6**](https://korisnicka-sucelja-seven.vercel.app//) <!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
 
 ## Project Requirements
