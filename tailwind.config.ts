@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      screens: {
+        xl1200: "1200px",
+      },
       animation: {
         flicker: "flicker 1.5s infinite alternate",
       },

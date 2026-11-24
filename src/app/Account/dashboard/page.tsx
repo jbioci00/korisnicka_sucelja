@@ -192,10 +192,13 @@ export default function Dashboard() {
 
   const deleteAccount = async () => {
     if (!user) return;
-    await supabase.from("watchlist").delete().eq("user_id", user.id);
-    await supabase.from("reviews").delete().eq("user_id", user.id);
-    const { error } = await supabase.auth.admin.deleteUser(user.id);
-    if (!error) router.push("/Account");
+    const { error } = await supabase.rpc("delete_my_account");
+    if (error) {
+      setMessage("Failed to delete account: " + error.message);
+      return;
+    }
+    await supabase.auth.signOut();
+    router.push("/Account");
   };
 
   useEffect(() => {
